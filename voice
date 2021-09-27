@@ -20,3 +20,4 @@ engine.setProperty('voice', voices[1].id)   #changing index, changes voices. 1 f
 
 
 engine.say("Hello")
+engine.runAndWait()
